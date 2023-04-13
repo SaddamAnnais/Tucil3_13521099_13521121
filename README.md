@@ -30,7 +30,7 @@ Program sederhana untuk menentukan lintasan terpendek berdasarkan peta Google Ma
 <a name="features"></a>
 
 ## Features
-- Program dapat menerima input file config ber-ekstensi `txt` dengan ketentuan sebagai <a href=""> berikut</a>
+- Program dapat menerima input file config ber-ekstensi `txt` dengan ketentuan sebagai <a href="https://github.com/vierifirdaus/Tucil3_13521099_13521121/blob/main/test/README.md"> berikut</a>
 - Menampilkan `peta` untuk visualisasi rute
 - Menampilkan `edge` untuk tiap instansiasi jalan pada peta
 - Pengguna dapat memilih `algoritma` yang akan digunakan serta `view` yang akan ditampilkan pada peta
@@ -42,17 +42,17 @@ Program sederhana untuk menentukan lintasan terpendek berdasarkan peta Google Ma
 
 ## Pemakaian
 1. Buka terminal pada path yang sesuai dengan program
-3. Jalankan command `npm i react`
-4. Masukkan input banyak derajat
-5. Masukkan input banyak titik 
-6. Apabila input derajat 2 atau 3 akan ada perintah untuk menampilkan visualisasi, apabila ingin menampilkan visualisasi ketik command `y`
+2. Jalankan command `npm install`
+3. Jalankan command `npm start`
+4. Program akan terbuka dan dapat digunakan
+
+Selain itu, program juga dapat diakses secara online melalui <a href=https://saddamannais.github.io/Tucil3_13521099_13521121> link berikut<a/>
 
 
 ## Video Captures
-![TUCIL3 GIF](https://github.com/vierifirdaus/Tucil3_13521099_13521121/blob/main/doc/1.gif?raw=true)
 
+https://user-images.githubusercontent.com/88727278/231507124-9273dd7f-f979-4aed-9790-da523513a21b.mp4
 
-https://user-images.githubusercontent.com/88727278/231496416-7c599d5a-e703-44a1-a111-1847df6b79e3.mp4
 
 
 ## Screenshots
@@ -60,17 +60,20 @@ https://user-images.githubusercontent.com/88727278/231496416-7c599d5a-e703-44a1-
   <img src="/doc/AWAL.png/">
   <p>Gambar 1. Tampilan Awal Program</p>
   <nl>
-  <img src=" src="/doc/3.png/">
+  <img src="/doc/astar2.png/">
   <p>Gambar 2. Visualisasi Peta</p>
   <nl>
-  <img src="/doc/ASTAR1.png/">
+  <img src="/doc/astar2.png/">
   <p>Gambar 3. Algoritma A*</p>
   <nl>
-  <img src="/doc/3.png/">
+  <img src="/doc/ucs1.png/">
   <p>Gambar 4. Algoritma UCS</p>
   <nl>
+  <img src="/doc/daerah.png/">
+  <p>Gambar 5. Peta Daerah UCS</p>
+  <nl>
   <img src="/doc/salahinput.png/">
-  <p>Gambar 5. Ketika salah input</p>
+  <p>Gambar 6. Ketika salah input</p>
   <nl>
 </p>
 
